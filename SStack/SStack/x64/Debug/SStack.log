@@ -1,0 +1,4 @@
+﻿  SStack.c
+D:\C_code\SStack\SStack\SStack.c(15,21): warning C4028: 形参 1 与声明不同
+D:\C_code\SStack\SStack\SStack.c(36,20): warning C4028: 形参 1 与声明不同
+  SStack.vcxproj -> D:\C_code\SStack\x64\Debug\SStack.exe
